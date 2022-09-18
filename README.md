@@ -1,6 +1,6 @@
-#Hi  👋
+#h1 Hi  👋
 
-##Languages
+##h2 Languages
 
 <!--
 **mamime19/mamime19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
