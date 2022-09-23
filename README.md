@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <p>Github : mamime19</p>
-<p>Twitter : @mami6787012484</p>
+<p>Twitter : <a href="https://twitter.com/mami6787012484">@mami6787012484</a></p>
 <p>AtCoder : mamime19</p>
 </div>
 
