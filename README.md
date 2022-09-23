@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<p>Github : mamime19</p>
+<p>Github : <a href="https://github.com/mamime19">mamime19</a></p>
 <p>Twitter : <a href="https://twitter.com/mami6787012484">@mami6787012484</a></p>
-<p>AtCoder : mamime19</p>
+<p>AtCoder : <a href="https://atcoder.jp">mamime19</a></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
