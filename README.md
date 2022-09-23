@@ -3,6 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+Github : mamime19
+Twitter : @mami6787012484
+AtCoder : mamime19
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
