@@ -2,11 +2,11 @@
 <h3 align="center">I'm interested in web development and competitive programming</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-Github : mamime19
-Twitter : @mami6787012484
-AtCoder : mamime19
-</p>
+<div align="left">
+<p>Github : mamime19</p>
+<p>Twitter : @mami6787012484</p>
+<p>AtCoder : mamime19</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
