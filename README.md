@@ -5,7 +5,7 @@
 <div align="left">
 <p>Github : <a href="https://github.com/mamime19">mamime19</a></p>
 <p>Website : <a href="https://mamime19.github.io/">mamime's website</a></p>
-<p>AtCoder : <a href="https://atcoder.jp">mamime19</a></p>
+<p>AtCoder : <a href=https://atcoder.jp/users/mamime19">mamime19</a></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
