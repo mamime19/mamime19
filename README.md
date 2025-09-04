@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <p>Github : <a href="https://github.com/mamime19">mamime19</a></p>
-<p>Website : <a href="https://mamime19.github.io/">mamime's website</a></p>
 <p>AtCoder : <a href="https://atcoder.jp/users/mamime19">mamime19</a></p>
 </div>
 
