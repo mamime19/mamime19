@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm mamime19</h1>
-<h3 align="center">I'm interested in web development and competitive programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
